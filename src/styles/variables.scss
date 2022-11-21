@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins&family=Roboto&family=Ubuntu+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+
+$base-font: "Roboto", sans-serif;
+$sec-font: "Poppins", sans-serif;
+$cursive-font: "Dancing Script", cursive;
+$ubuntu-font: "Ubuntu Mono", monospace;
+$code-font: "Fira Code", monospace;
+$alata-font: 'Alata', sans-serif; 
+
+
+// $shadow-color: rgba(2, 2, 34, 0.24);
+// $base-color: rgb(15, 196, 212);
+// $white-color: #c5c6c7;
+// $dark-color: #1f2833;
+// $sec-dark-color: #161e28ac;
+// $black-color: #0b0c10;
+// $neon-color: #66fcf1;
+
+$shadow-color: rgba(2, 2, 34, 0.24);
+$base-color: rgb(15, 196, 212);
+$white-color: #c5c6c7;
+$dark-color: #333b41;
+$sec-dark-color: #161e28ac;
+$black-color: #0b0c10;
+$neon-color: #66fcf1;
+$yellow-color: #fbb31b;
+
+$hover-color: #59c8e2;
